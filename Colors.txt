@@ -1,0 +1,27 @@
+CSP Solver Colors Support:
+
+Red
+Green
+Blue
+Gray
+Silver
+Navy
+Yellow
+BtnFace
+White
+Black
+Maroon
+Olive
+Purple
+BackGround
+Lime
+Teal
+Fuchsia
+Aqua
+MedGray
+Cream
+SkyBlue
+MoneyGreen
+HighLight
+HotLight
+InfoBK
